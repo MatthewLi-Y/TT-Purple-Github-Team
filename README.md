@@ -1,3 +1,2 @@
 # Using-GitHub-as-a-Team
-
-## Urvashi Bhalla
+# Urvashi Bhalla
